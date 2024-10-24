@@ -1,0 +1,14 @@
+C:\Users\felip\Desktop\p2 c#\p2_loja\bin\Debug\net8.0\p2_loja.exe
+C:\Users\felip\Desktop\p2 c#\p2_loja\bin\Debug\net8.0\p2_loja.deps.json
+C:\Users\felip\Desktop\p2 c#\p2_loja\bin\Debug\net8.0\p2_loja.runtimeconfig.json
+C:\Users\felip\Desktop\p2 c#\p2_loja\bin\Debug\net8.0\p2_loja.dll
+C:\Users\felip\Desktop\p2 c#\p2_loja\bin\Debug\net8.0\p2_loja.pdb
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\p2_loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\p2_loja.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\p2_loja.AssemblyInfo.cs
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\p2_loja.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\p2_loja.dll
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\refint\p2_loja.dll
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\p2_loja.pdb
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\p2_loja.genruntimeconfig.cache
+C:\Users\felip\Desktop\p2 c#\p2_loja\obj\Debug\net8.0\ref\p2_loja.dll
